@@ -1,0 +1,31 @@
+10
+Petrov
+Moscow, Tverskaya 1
+79001000001
+Lebedev
+Minsk, Lenina 15
+79001000010
+Sokolov
+Kiev, Pobedy 10
+79001000005
+Novikov
+Astana, Mira 44
+79001000002
+Morozov
+Berlin, Str. 10
+79001000009
+Fedorov
+Paris, Av. 5
+79001000003
+Stepanov
+London, Baker St 22
+79001000008
+Nikitin
+Rome, Via 7
+79001000004
+Orlov
+Madrid, Plaza 12
+79001000007
+Pashkov
+Prague, Narodni 3
+79001000006
